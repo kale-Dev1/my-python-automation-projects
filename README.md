@@ -1,2 +1,2 @@
 # my-python-automation-projects
-My first automation projects with python. These are beginner friendly
+Just a few Python beginner projects to pratice Python.
